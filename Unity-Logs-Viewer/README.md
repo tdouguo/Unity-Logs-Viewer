@@ -1,6 +1,15 @@
 # Unity-Logs-Viewer
 
 
+
+## Install for Unity Package Manager
+
+Editor Projects/manifest.json
+```
+"com.tdouguo.UnityLogsViewer": "https://github.com/tdouguo/Unity-Logs-Viewer.git",
+```
+
+
 Please note with new unity you can view device logs on editor console window, check the new attach menu in editor console window.
 
 
